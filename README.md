@@ -62,7 +62,7 @@ cypress/
 
 ---
 
-## 📸 Evidências
+# 📸 Evidências
 
 ## Cypress Runner
 
@@ -70,21 +70,27 @@ cypress/
 
 ---
 
-## Estrutura do Projeto
+## Cadastro de Usuário
 
-![Estrutura](./assets/estrutura-projeto.png)
+![Cadastro](./assets/testecadastro.png)
 
 ---
 
-## Fluxo de Cadastro/Login
+## Login Automatizado
 
-![Cadastro](./assets/cadastro-login.png)
+![Login](./assets/testelogin.png)
 
 ---
 
 ## Funcionalidades de Produtos
 
-![Produtos](./assets/produtos.png)
+![Produtos](./assets/testeprodutos.png)
+
+---
+
+## Estrutura e Organização do Projeto
+
+![Commands](./assets/comandodemassa.png)
 
 ---
 
