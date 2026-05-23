@@ -101,14 +101,6 @@ npx cypress run
 
 ---
 
-# 📸 Evidências
-
-> Em breve:
-- screenshots dos testes
-- vídeos da execução
-- integração CI/CD
-
----
 
 # 🎯 Objetivo do projeto
 
