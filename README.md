@@ -66,7 +66,7 @@ cypress/
 
 ## Cypress Runner
 
-![Cypress Runner](./assets/cypress-runner.png)
+![Cypress Runner](./assets/cypresse2e.png)
 
 ---
 
