@@ -62,6 +62,32 @@ cypress/
 
 ---
 
+## 📸 Evidências
+
+## Cypress Runner
+
+![Cypress Runner](./assets/cypress-runner.png)
+
+---
+
+## Estrutura do Projeto
+
+![Estrutura](./assets/estrutura-projeto.png)
+
+---
+
+## Fluxo de Cadastro/Login
+
+![Cadastro](./assets/cadastro-login.png)
+
+---
+
+## Funcionalidades de Produtos
+
+![Produtos](./assets/produtos.png)
+
+---
+
 # ⚙️ Boas práticas aplicadas
 
 ✅ Uso de `beforeEach()`  
