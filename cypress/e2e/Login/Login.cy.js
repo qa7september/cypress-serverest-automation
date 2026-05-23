@@ -1,4 +1,4 @@
-describe('Teste de login failed', () => {
+describe('Validações de Login', () => {
   beforeEach(() => {
   cy.visit('https://front.serverest.dev/login')
 })
